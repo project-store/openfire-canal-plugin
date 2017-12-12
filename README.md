@@ -1,2 +1,3 @@
 # openfire-canal-plugin
 利用canal同步业务系统中的人员变化到openfire系统中
+实现标准的openfire插件
